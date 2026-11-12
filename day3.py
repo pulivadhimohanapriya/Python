@@ -1,4 +1,4 @@
-#Height Program
+#Height Program:
 # rama_height=1.3
 # raja_height=1.7
 # if rama_height>raja_height:
@@ -6,7 +6,7 @@
 # else:
 #     print("raja is taller")
 
-#Discount Program
+#Discount Program:
 # total=float(input("enter total purchase amount:"))
 # if total>=1000:
 #     discount=total*0.10
@@ -17,7 +17,7 @@
 #     print("no discount applied")
 #     print("total amount:",total)
 
-# system program - day 4
+# system program: - day 4
 # cpu_hours=int(input("enter number of cpu hours:"))
 # storage=int(input("enter storage in gb:"))
 # data_transfer=int(input("enter data transfer in gb:"))
